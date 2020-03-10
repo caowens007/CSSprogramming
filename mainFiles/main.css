@@ -1,0 +1,18 @@
+
+  body {
+      background: #e6f2ff;
+      font-family:sans-serif;
+  }
+  .black-header{
+    color: black;
+  }
+  .vertical-line{
+
+  border-left: 6px solid darkkhaki;
+  height: 550px;
+  top: 30px;
+  }
+  .pad{
+
+  padding: 10px 5px;
+}
