@@ -1,18 +1,36 @@
-
-  body {
-      background: #e6f2ff;
-      font-family:sans-serif;
-  }
-  .black-header{
-    color: black;
-  }
-  .vertical-line{
-
-  border-left: 6px solid darkkhaki;
-  height: 550px;
+body {
+  background: #e6f2ff;
+  font-family:sans-serif;
+}
+.black-header
+{
+  color: black;
+}
+.vertical-line
+{
+  border-left: 10px solid darkkhaki;
+  height: 1500px;
   top: 30px;
-  }
-  .pad{
-
+}
+.pad
+{
   padding: 10px 5px;
+}
+h3.intro
+{
+  text-align: center;
+}
+#textbox
+{
+  width: 400px;
+  Display: block;
+  float: left;
+}
+.alignleft
+{
+  float: left;
+}
+.alignright
+{
+  float: right;
 }
