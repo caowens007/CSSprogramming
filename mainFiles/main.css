@@ -43,6 +43,13 @@ h3.intro
 {
   float: left;
 }
+.aligncenter
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
 .alignright
 {
   float: right;
